@@ -1,0 +1,11 @@
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\bin\Debug\Lab4B.exe.config
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\bin\Debug\Lab4B.exe
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\bin\Debug\Lab4B.pdb
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.csproj.AssemblyReference.cache
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.csproj.SuggestedBindingRedirects.cache
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.Form1.resources
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.Properties.Resources.resources
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.csproj.GenerateResource.cache
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.csproj.CoreCompileInputs.cache
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.exe
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4B\obj\Debug\Lab4B.pdb

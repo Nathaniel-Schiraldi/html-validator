@@ -1,0 +1,9 @@
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\bin\Debug\Lab4A.exe.config
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\bin\Debug\Lab4A.exe
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\bin\Debug\Lab4A.pdb
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\obj\Debug\Lab4A.csproj.AssemblyReference.cache
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\obj\Debug\Lab4A.csproj.SuggestedBindingRedirects.cache
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\obj\Debug\Lab4A.csproj.CoreCompileInputs.cache
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\obj\Debug\Lab4A.exe
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\obj\Debug\Lab4A.pdb
+C:\College Semester 3 Classes\Programming in .NET (COMP10204)\Assignments\Lab4\Lab4A\bin\Debug\employees.txt
